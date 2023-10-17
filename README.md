@@ -1,6 +1,5 @@
 ### EX NO : 03
 # <p align="center">PCA-Simple-warp-divergence---Implement-Sum-Reduction.</p>
-Refer to the kernel reduceUnrolling8 and implement the kernel reduceUnrolling16, in which each thread handles 16 data blocks. Compare kernel performance with reduceUnrolling8 and use the proper metrics and events with nvprof to explain any difference in performance.
 
 ## Aim :
 To implement the kernel reduceUnrolling16 and comapare the performance of kernal reduceUnrolling16 with kernal reduceUnrolling8 using proper metrics and events with nvprof.
