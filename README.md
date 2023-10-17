@@ -304,7 +304,7 @@ int main(int argc, char **argv)
 ```
 
 ## Output :
-![image](<img width="956" alt="image" src="https://github.com/ezhilmathir/PCA-Simple-warp-divergence---Implement-Sum-Reduction./assets/94210147/03c2cedf-9bef-4bb2-abcf-673566033d8a">
+<img width="956" alt="image" src="https://github.com/ezhilmathir/PCA-Simple-warp-divergence---Implement-Sum-Reduction./assets/94210147/03c2cedf-9bef-4bb2-abcf-673566033d8a">
 
 ## Result:
 Thus, the performance of two CUDA kernels, reduceUnrolling8 and reduceUnrolling16 has been compared successfully.
